@@ -10,7 +10,7 @@
 ----------
 ## 下载使用说明
 - step1 [现在安装anaconda Python3.5+](https://www.anaconda.com/download/#windows)
-- step2 点击绿色按钮，下载zip解压
+- step2 [点击绿色按钮，下载zip解压](https://github.com/Yeharold/python)
 - step3 进入第一阶段文件夹，打开命令行： jupyter notebook
 - step4 打开 快速入门.ipynb，填学号，姓名
 ----
