@@ -11,6 +11,7 @@
 - step3 打开文档，填学号，姓名
 ----
 ## Python基础入门视频教程
+  版权：网易云课堂小甲鱼
 - [课时1：我与Python的第一次亲密接触](https://study.163.com/course/courseLearn.htm?courseId=378003#/learn/video?lessonId=495018&courseId=378003)
 - [课时2：Python变量与字符串](https://study.163.com/course/courseLearn.htm?courseId=378003#/learn/video?lessonId=495021&courseId=378003)
 - [课时3：Python数据类型](https://study.163.com/course/courseLearn.htm?courseId=378003#/learn/video?lessonId=493030&courseId=378003)
