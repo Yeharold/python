@@ -8,10 +8,11 @@
 * ##### 第二阶段：进阶学习
 * ##### 第三阶段：项目实战
 ----------
-## 下载说明
-- step1 打开令行执行：git clone https://github.com/Yeharold/python.git
-- step2 进入文件夹，打开命令行： jupyter notebook
-- step3 打开文档，填学号，姓名
+## 下载使用说明
+- step1 [现在安装anaconda Python3.5+](https://www.anaconda.com/download/#windows)
+- step2 点击绿色按钮，下载zip解压
+- step3 进入第一阶段文件夹，打开命令行： jupyter notebook
+- step4 打开 快速入门.ipynb，填学号，姓名
 ----
 ## Python基础入门视频教程
   版权：网易云课堂小甲鱼
